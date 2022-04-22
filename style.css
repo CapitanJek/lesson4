@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #4f77e3;
+}
+
+.content {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.block {
+    width: 500px;
+    height: 70vh;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.count_div p {
+    font-size: 50px;
+    font-family: sans-serif;
+    color: #0f1010;
+
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttons button {
+    width: 60px;
+    height: 60px;
+    border: 3px solid #090808;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+
+
+}
+
+
+
